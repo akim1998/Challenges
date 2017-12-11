@@ -1,0 +1,21 @@
+
+h1{font-size: 55px;font-variant: small-caps;font-weight: lighter;font-family: sans-serif;text-align: center;padding-top: 10px;padding-bottom: 10px}
+h2{font-variant: small-caps;font-weight: lighter;font-family: sans-serif;font-size: 30px;transform: translatex(20px);text-decoration: underline;}
+ul{font-family: sans-serif;font-weight: lighter;font-size: 18px;list-style-type: circle;padding-top: 10px;padding-bottom: 10px}
+h3{font-variant: small-caps;font-weight: lighter;font-family: sans-serif;font-size: 30px;transform: translatex(20px);text-decoration: underline;}
+p{font-family: sans-serif;font-weight: 600;font-size: 17px;text-align: justify;width: auto;transform: translateX(20px);}
+
+html{text-align: justify;background-image: linear-gradient(white,blue);}
+html{background-image:url(bread50.png);background-repeat: no-repeat;background-size: cover;}
+
+ul{outline: 1px solid;box-shadow: 4px 5px 15px 1px #1a1e26}
+h1{outline: 1px solid;box-shadow: 4px 5px 15px 1px #1a1e26}
+h4{outline: 1px solid;box-shadow: 4px 5px 15px 1px #1a1e26}
+
+h1{background-color: hsla(78, 100%, 97.5%, .3)}
+ul{background-color: hsla(78, 100%, 97.5%, .3)}
+h4{background-color: hsla(78, 100%, 97.5%, .3)}
+
+h4{padding-top: 1px;padding-bottom: 1px}
+p{max-width: 1850px;}
+html{overflow: auto}
